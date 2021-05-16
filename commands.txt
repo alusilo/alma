@@ -1,0 +1,2 @@
+python manage.py oscar_populate_countries --no-shipping
+
