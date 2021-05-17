@@ -1,2 +1,3 @@
 django-oscar[sorl-thumbnail]
 pycountry
+python-dotenv
